@@ -11,6 +11,7 @@
       <span style="font-style: italic"> -{{ frase.nome }}</span>
     </li>
   </ul>
+  <img src="https://i.imgflip.com/7wsr35.jpg" alt="">
 </template>
 
 <script>
@@ -23,7 +24,14 @@ export default {
         { testo: "io sono un gatto e non un sacco", nome: "Massimo" },
         { testo: "Un programmatore è in ritardo, si sta prepa...random()", nome: "Carlo" },
         { testo: "Ciao a tutti è stato un onore", nome: "Michele" },
+        { testo: "Ciao sono un testo", nome: "Nicola" },
+        { testo: "Sono un orco e questo è il mio fork-one", nome: "Shrek" },
+        { testo: "Ciao a tuuutttttiiii", nome: "Jeremy" },
+        { testo: "tutti per uno e uno per nessuno", nome: "Fabio" },
+        { testo: "È proprio l'ora del tè con degli ottimi biscottini", nome: "Manuel"},
         { testo: "La pacchia è finita cit.", nome: "Gianbattista" },
+        { testo: "qualcosa di emozionante", nome: "Alessandra" },
+        
       ],
     };
   },
